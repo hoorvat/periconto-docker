@@ -1,0 +1,10 @@
+babel
+graphviz
+isodate
+pyparsing
+PyQt6
+PyQt6-Qt6
+PyQt6_sip
+rdflib
+six
+opencv-python-headless
